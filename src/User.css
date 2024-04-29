@@ -1,0 +1,23 @@
+body {
+    background-color: #F5DAD2;
+}
+
+thead {
+    background-color: #af9581;
+    color: white;
+}
+
+th,
+tr,
+td {
+    padding: 15px;
+}
+
+th {
+    font-size: 20px;
+}
+
+td {
+    background-color: #F0EBE3;
+    font-size: 18px;
+}
